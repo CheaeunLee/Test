@@ -1,5 +1,8 @@
 # Test
 
+['AIPro2'](https://youtu.be/nNWG7DGQrYs){: target="_blank"}
+
+
 [![AIPro](https://img.youtube.com/vi/zEARmgsEqzU/0.jpg)](https://youtu.be/zEARmgsEqzU)
 
 
