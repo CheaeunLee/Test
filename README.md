@@ -1,6 +1,5 @@
 # Test
 
-['글'](링크를 넣어주세요){: .btn.btn-default target="_blank"}
 ['AIPro2'](https://youtu.be/nNWG7DGQrYs){: .btn.btn-default target="_blank"} 
 
 
