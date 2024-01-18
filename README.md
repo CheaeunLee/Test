@@ -1,6 +1,7 @@
 # Test
 
-['AIPro2'](https://youtu.be/nNWG7DGQrYs){: target="_blank"}
+['글'](링크를 넣어주세요){: .btn.btn-default target="_blank"}
+['AIPro2'](https://youtu.be/nNWG7DGQrYs){: .btn.btn-default target="_blank"} 
 
 
 [![AIPro](https://img.youtube.com/vi/zEARmgsEqzU/0.jpg)](https://youtu.be/zEARmgsEqzU)
