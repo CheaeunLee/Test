@@ -4,5 +4,6 @@
 
 
 
-![AIPro_회사소개서V6(홈페이지전용)230523_12 (1)](https://github.com/CheaeunLee/Test/assets/127072960/0e40862c-02fe-40ef-9b20-f325638aa188)
+![AIPro_회사소개서V6(홈페이지전용)230523_12 (1)](https://github.com/CheaeunLee/Test/assets/127072960/f65d108f-900e-4071-879f-9e4ea2af48d1)
+
 
