@@ -4,7 +4,6 @@
 
 ### **Video quality demo(click)**
 [![SR1](https://img.youtube.com/vi/nNWG7DGQrYs/maxresdefault.jpg)](https://youtu.be/nNWG7DGQrYs) 
-
 [![SR2](https://img.youtube.com/vi/Q6KqRZ9lyes/maxresdefault.jpg)](https://youtu.be/Q6KqRZ9lyes)
 
 
