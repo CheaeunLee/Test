@@ -3,7 +3,8 @@
 
 
 
+![AIPro_회사소개서V6(홈페이지전용)230523_12](https://github.com/CheaeunLee/Test/assets/127072960/7415ec4c-3407-4ee8-b429-bfc68e7d1a51)
 
-![AIPro_회사소개서V6(홈페이지전용)230523_12](https://github.com/CheaeunLee/Test/assets/127072960/48f704ea-b7f6-48c5-bc2d-5c09c8993d09)
+
 
 
