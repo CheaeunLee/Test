@@ -1,3 +1,7 @@
+<iframe width="896" height="504" src="https://www.youtube.com/embed/1xWmteIE3Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ### **AIPro Super Resolution - Upsampled (x4) Video Comparison**
 [![SR1](https://img.youtube.com/vi/nNWG7DGQrYs/0.jpg)](https://youtu.be/nNWG7DGQrYs) [![SR2](https://img.youtube.com/vi/Q6KqRZ9lyes/0.jpg)](https://youtu.be/Q6KqRZ9lyes)
 
