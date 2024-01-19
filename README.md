@@ -1,4 +1,4 @@
-<iframe width="896" height="504" src="https://www.youtube.com/embed/1xWmteIE3Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img width="80%" src=[![SR1](https://img.youtube.com/vi/nNWG7DGQrYs/0.jpg)](https://youtu.be/nNWG7DGQrYs)/>
 
 
 
